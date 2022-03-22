@@ -19,6 +19,6 @@ print("Istitle: ", char.istitle())
 print("Isupper: ", char.isupper())
 print("Join: ", "||".join(char))
 
-word = input("Enter word to count: ")
+word = input("Enter word to count and find: ")
 print("Count: ", char.count(word))
 print("Find: ", char.find(word))
