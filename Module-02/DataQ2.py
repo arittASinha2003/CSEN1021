@@ -1,13 +1,26 @@
-'''Program to print a specific list after removing the 0th, 4th and 5th elements.
-Sample List: ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
-Expected Output: ['Green', 'White', 'Black']'''
+'''Program to get the difference between two lists.'''
 
-L1 = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
-L2 = []
-print(len(L1))
-for i in range(len(L1)):
-  if((i == 0) or (i==4) or (i == 5)):
-    continue
-  else:
-    L2.append(L1[i])
-print(L2)
+L1 = ['ECE', 'CSE', 'Mech', 'Civil']
+L2 = ['EEE', 'ECE', 'CSE', 'Bio']
+
+print("Adding 2 Lists:")
+print(L1 + L2)
+print("\n")
+
+'''print("Subtracting 2 Lists:")
+print(list(set(L1) - set(L2)))'''
+
+L3 = []
+for i in L1:
+  #print(i)
+  for j in L2:
+    #print(j)
+    if (j == i):
+      L2.remove(j)
+      #print(L2)
+      #L1.remove(i)
+      #print(L1)
+    else:
+      continue
+print("Subtracting 2 Lists:")
+print(L1 + L2)

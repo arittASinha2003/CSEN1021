@@ -1,26 +1,31 @@
-'''Program to get the difference between two lists.'''
+'''def find_len(list1):
+  length = len(list1)
+  list1.sort()
+  print("Second Largest Element:", list1[length-2])
+  print("Second Smallest Element:", list1[1])
 
-L1 = ['ECE', 'CSE', 'Mech', 'Civil']
-L2 = ['EEE', 'ECE', 'CSE', 'Bio']
+list1=[12, 45, 2, 41, 31, 10, 8, 6, 4]
+Largest = find_len(list1)'''
 
-print("Adding 2 Lists:")
-print(L1 + L2)
-print("\n")
+def Range(list1):
+  largest = list1[0]
+  lowest = list1[0]
+  largest2 = None
+  lowest2 = None
+  for item in list1[1:]:
+    if item > largest:
+      largest2 = largest
+      largest = item
+    elif largest2 == None or largest2 < item:
+      largest2 = item
+    if item < lowest:
+      lowest2 = lowest
+      lowest = item
+    elif lowest2 == None or lowest2 > item:
+      lowest2 = item 
+              
+  print("Second Largest Element:", largest2) 
+  print("Second Smallest Element:", lowest2) 
 
-'''print("Subtracting 2 Lists:")
-print(list(set(L1) - set(L2)))'''
-
-L3 = []
-for i in L1:
-  #print(i)
-  for j in L2:
-    #print(j)
-    if (j == i):
-      L2.remove(j)
-      #print(L2)
-      #L1.remove(i)
-      #print(L1)
-    else:
-      continue
-print("Subtracting 2 Lists:")
-print(L1 + L2)
+list1 = [12, 45, 2, 41, 31, 10, 8, 6, 4]
+Range(list1)
