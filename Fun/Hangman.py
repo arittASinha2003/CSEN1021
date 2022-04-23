@@ -1,5 +1,6 @@
 import random
 from words import words
+from hangman_visual import lives_visual_dict # Optional
 import string
 
 def get_valid_word(words):
@@ -14,7 +15,7 @@ def hangman():
   alphabet = set(string.ascii_uppercase)
   used_letters = set()  # What the user has guessed
 
-  lives = 6  # For limited chances
+  lives = 7  # For limited chances
 
   # Getting user input
   while len(word_letters) > 0 and lives > 0:  # For limited chances
@@ -35,6 +36,7 @@ def hangman():
         word_letters.remove(user_letter)
       else:
         lives = lives - 1  # For limited chances
+        print(lives_visual_dict[lives])  # Optional
         print("Letter is not in word!!")
   
     elif user_letter in used_letters:
@@ -49,4 +51,5 @@ def hangman():
   else:
     print("Congratulations, you guessed the word", word, "!!")
 
-hangman()
+if __name__ == '__main__':
+  hangman()
