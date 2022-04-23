@@ -8,3 +8,4 @@ print("Let's create something beautiful with code :-)")
 
 # Python Projects: https://www.youtube.com/watch?v=8ext9G7xspg
 # https://stackoverflow.com/questions/594273/how-to-pick-a-random-english-word-from-a-list
+# https://www.randomlists.com/data/words.json
