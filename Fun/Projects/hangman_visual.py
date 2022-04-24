@@ -1,3 +1,4 @@
+# For Hangman Program
 lives_visual_dict = {
         0: """
                 ___________
