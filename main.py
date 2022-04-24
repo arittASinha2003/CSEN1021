@@ -6,6 +6,8 @@ print("Let's create something beautiful with code :-)")
 # https://replit.com/@CoderGautamYT/swordbattleio-UPDATED?v=1
 # https://replit.com/@d12z/image-generator?v=1
 
-# Python Projects: https://www.youtube.com/watch?v=8ext9G7xspg
 # https://stackoverflow.com/questions/594273/how-to-pick-a-random-english-word-from-a-list
 # https://www.randomlists.com/data/words.json
+
+# Python Projects: https://www.youtube.com/watch?v=8ext9G7xspg
+# https://www.freecodecamp.org/news/python-projects-for-beginners/
