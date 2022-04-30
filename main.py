@@ -12,3 +12,4 @@ print("Let's create something beautiful with code :-)")
 
 # Python Projects: https://www.youtube.com/watch?v=8ext9G7xspg
 # https://www.freecodecamp.org/news/python-projects-for-beginners/
+# https://www.onlinegdb.com/online_python_compiler
