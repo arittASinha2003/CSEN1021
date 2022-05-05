@@ -29,6 +29,8 @@ def computer_guess(x):
 
     print(f'Yay! The computer guessed your number, {guess}, correctly!')
 
-
+print("\nIt's your turn guessing the number\n")
 guess(10)
+
+print("\nIt's computer's turn to guess your number\n")
 computer_guess(10)
