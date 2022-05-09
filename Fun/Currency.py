@@ -2,23 +2,24 @@ print("\t\t\t\tWelcome to CURRENCY CONVERTER")
 print("\t\t\t\t-----------------------------")
 print("\n")
 
-print("1. USD to INR")
+print("1. USD to INR")  # ₹ $
 print("2. INR to USD")
 
-print("3. DIRHAM to INR")
+print("3. DIRHAM to INR")  # د.إ
 print("4. INR to DIRHAM")
 
-print("5. YEN to INR")
+print("5. YEN to INR")  # ¥
 print("6. INR to YEN")
 
-print("7. EURO to INR")
+print("7. EURO to INR")  # €
 print("8. INR to EURO")
 
-print("9. POUND STERLING to INR")
+print("9. POUND STERLING to INR")  # £
 print("10. INR to POUND STERLING")
 print("\n")
 
 choice = int(input("Enter your choice: "))
+print("\n")
 
 if choice == 1:
   USD = float(input("Enter value in USD: "))
