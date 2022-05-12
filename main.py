@@ -5,6 +5,7 @@ print("Let's create something beautiful with code :-)")
 # https://raspberrypi.com/
 
 # https://replit.com/@CoderGautamYT/swordbattleio-UPDATED?v=1
+# https://replit.com/@CoderGautamYT/ReplitUserCount?v=1
 # https://replit.com/@d12z/image-generator?v=1
 
 # https://stackoverflow.com/questions/594273/how-to-pick-a-random-english-word-from-a-list
