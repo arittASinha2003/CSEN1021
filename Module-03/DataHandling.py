@@ -7,4 +7,7 @@ import pandas as pd
 std_dict = {'Branch' : ['ECE', 'CSE', 'MECH', 'CIVIL'], 'Strength' : [120, 1000, 12, 14], 'Year' : [2020, 2021, 2019, 2022]}
 
 s = pd.DataFrame(std_dict)
-print(s)
+# print(s)
+
+s_t = s[s['Strength'] > 100]
+print(s_t)
