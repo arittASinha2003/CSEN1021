@@ -15,5 +15,11 @@ print("Let's create something beautiful with code :-)")
 # https://www.freecodecamp.org/news/python-projects-for-beginners/
 # https://www.onlinegdb.com/online_python_compiler
 
-# https://arittasinha2003-code50-93367827-g4676q97pc97qq.github.dev/
+# https://arittasinha2003-code50-93367827-5g5x5q6x924jpg.github.dev/
 # https://pandas.pydata.org/pandas-docs/stable/
+
+# Assignments:
+# https://gitam-2021.github.io/CSEN1021/tutorials/vscode-gitam/
+# https://code.cs50.io                     [GITAM Codespace]
+# https://classroom.github.com/a/0azoxtBJ  [Assignment - 1]
+# https://classroom.github.com/a/DXEcxw49  [Assignment - 2]
