@@ -23,3 +23,5 @@ print("Let's create something beautiful with code :-)")
 # https://code.cs50.io                     [GITAM Codespace]
 # https://classroom.github.com/a/0azoxtBJ  [Assignment - 1]
 # https://classroom.github.com/a/DXEcxw49  [Assignment - 2]
+
+# http://www.swagbucks.com/
