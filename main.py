@@ -17,11 +17,15 @@ print("Let's create something beautiful with code :-)")
 
 # https://arittasinha2003-code50-93367827-5g5x5q6x924jpg.github.dev/
 # https://pandas.pydata.org/pandas-docs/stable/
+# https://sqlite.org/cli.html
+# https://www.sqlite.org/famous.html
+# https://sqlite.org/fiddle/index.html
 
 # Assignments:
 # https://gitam-2021.github.io/CSEN1021/tutorials/vscode-gitam/
 # https://code.cs50.io                     [GITAM Codespace]
 # https://classroom.github.com/a/0azoxtBJ  [Assignment - 1]
 # https://classroom.github.com/a/DXEcxw49  [Assignment - 2]
+# https://classroom.github.com/a/FkA1P11F  [Assignment - 3]
 
 # http://www.swagbucks.com/
