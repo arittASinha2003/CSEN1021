@@ -11,11 +11,9 @@ print("Let's create something beautiful with code :-)")
 # https://stackoverflow.com/questions/594273/how-to-pick-a-random-english-word-from-a-list
 # https://www.randomlists.com/data/words.json
 
-# Python Projects: https://www.youtube.com/watch?v=8ext9G7xspg
-# https://www.freecodecamp.org/news/python-projects-for-beginners/
 # https://www.onlinegdb.com/online_python_compiler
+# https://pythontutor.com/visualize.html
 
-# https://arittasinha2003-code50-93367827-5g5x5q6x924jpg.github.dev/
 # https://pandas.pydata.org/pandas-docs/stable/
 # https://sqlite.org/cli.html
 # https://www.sqlite.org/famous.html
@@ -27,5 +25,3 @@ print("Let's create something beautiful with code :-)")
 # https://classroom.github.com/a/0azoxtBJ  [Assignment - 1]
 # https://classroom.github.com/a/DXEcxw49  [Assignment - 2]
 # https://classroom.github.com/a/FkA1P11F  [Assignment - 3]
-
-# http://www.swagbucks.com/
