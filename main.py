@@ -1,5 +1,6 @@
 print("Hello AS!")
 print("Let's create something beautiful with code :-)")
+# https://www.udemy.com/course/full-ethical-hacking-course/
 # https://gitam-2021.github.io/CSEN1021/
 # https://www.w3schools.com/python/python_ref_string.asp
 # https://raspberrypi.com/
